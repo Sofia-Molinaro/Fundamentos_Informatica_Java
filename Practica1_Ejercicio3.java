@@ -1,3 +1,4 @@
+//Pedir que se ingrese un número e imprimir la mitad.
 import java.util.Scanner;
 public class Practica1_Ejercicio3{
     public static void main (String[] args){
