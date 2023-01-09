@@ -1,3 +1,4 @@
+// Pedir datos de 4 productos comprados, con su cantidad y precio unitario y mostrar cuánto se gasta por cada producto y el total.
 import javax.swing.*;
 public class Practica1_Ejercicio10 {
     public static void main(String[] args){
@@ -23,4 +24,3 @@ public class Practica1_Ejercicio10 {
         }  
     }
 }
-
