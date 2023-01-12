@@ -11,5 +11,7 @@ public class Practica1_Ejercicio20 {
         acontecimientos.add("Llegada de los españoles a América 1492 d.C");
         
         acontecimientos.add("Revolución de Mayo 1810 d.C");
+        
+        System.out.println("Algunos de los acontecimientos históricos más relevantes son: " + acontecimientos);
     }
 }
