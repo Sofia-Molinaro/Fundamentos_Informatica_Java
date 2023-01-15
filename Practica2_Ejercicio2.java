@@ -26,6 +26,6 @@ public class Practica2_Ejercicio2 {
         else{
             System.out.print("No ingreso ninguna de las opciones. Por favor inténtelo nuevamente. ");
         }
-        
+        imprimir_mensaje(m); 
     }
 }
